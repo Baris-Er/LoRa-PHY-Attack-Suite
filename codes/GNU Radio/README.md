@@ -4,7 +4,7 @@ This folder contains all the source files related to the implementation of the s
 
 ---
 
-![Replay Flowchart](../docs/images/replay.PNG "Replay Flowchart")
+![Replay Flowchart](docs/images/replay.PNG "Replay Flowchart")
 
 ## Contents
 
